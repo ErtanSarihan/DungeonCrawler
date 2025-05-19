@@ -73,3 +73,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Exclude specific parts of Creator Kit - RPG
+/Assets/Creator\ Kit\ -\ RPG/Art/
+/Assets/Creator\ Kit\ -\ RPG/Audio/
+# Keep scripts and other small files
+# /Assets/Creator\ Kit\ -\ RPG/Scripts/
